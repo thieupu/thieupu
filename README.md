@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋😃 I'm Thieu!</h1>
 
-<!--
-**thieupu/thieupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🏆 I'm a **researcher, lecturer, and developer** who is passionate about **AI 🤖, machine learning 📊, optimization ⚡, and neural networks 🧠**. I love building intelligent systems that solve real-world problems! 💡✨
 
-Here are some ideas to get you started:
+### 🔬 Research Interests  
+🦾 **Optimization & Metaheuristics**: Evolutionary algorithms 🦋, swarm intelligence 🐝, and hybrid optimization 🎯.  
+🧠 **Neural Networks & Machine Learning**: Deep learning 🔥, reinforcement learning 🎮, and transfer learning 🚀.  
+💻 **Computational Intelligence**: Approximation algorithms 📈, automated model tuning 🤖.  
+🌍 **Applications**: Cloud computing ☁️, time-series forecasting ⏳, regression and classification problems 🕵️, and healthcare AI 🏥.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Contributions  
+💡 **IntelELM**: Optimizing **Extreme Learning Machine (ELM)** using metaheuristics 🏆.  
+📈 **reflame**: A hybrid optimization framework for **Functional Linked Neural Networks (FLNN)** 🎯.  
+🔗 **GrafoRVFL**: Gradient-Free Algorithm-based **Random Vector Functional Link** 🌐.  
+🛠️ **AI & Optimization Libraries**: Developing intelligent and scalable open-source tools 🔧.  
+
+### 🎯 What I'm Currently Up To  
+🌱 Exploring **NLP, LLMs** and **RL, DRL** for scalable systems.  
+📝 Writing papers ✍️, mentoring students 👨‍🏫, and building AI-powered software ⚡.  
+🤝 Open to collaborations on AI & Optimization projects! Let's create something amazing! 🚀  
+
+### 📫 Get in Touch  
+🌍 **Website**: [ResearchGate](https://www.researchgate.net/profile/Nguyen-Van-Thieu-2)    
+📖 **Google Scholar**: [My Publications](https://scholar.google.com.au/citations?hl=en&user=nsTbdhgAAAAJ)  
+📧 **Email**: thieu.nguyenvan@phenikaa-uni.edu.vn  
+
+✨ *"Innovation and intelligence are at the heart of every breakthrough. Let's build the future together!"* ✨  
+
+---
+🔥 **Follow me for exciting AI & optimization projects!** 🚀💡
